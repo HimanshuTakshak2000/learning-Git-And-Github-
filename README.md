@@ -1,3 +1,3 @@
 # learning-Git-And-Github
 <br>
-Author - Himanshu Takshak
+Author - Himanshu Mukesh Takshak
